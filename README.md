@@ -10,6 +10,14 @@ The objective of this endeavor is to document how-to use the Grails-CRM as imple
 It would be great to have OOTB application for others to use. Today GR8 CRM cannot compete with vTiger or Sugar CRM because the lack of resources, both developer resources and project lead. If we can change that and make something great about it, would people very happy.
 The goal is to get a working version for our clients using Grails-CRM and document the process so as to help a community of others benefit from our lessons learned. 
 
+## How to 
+This repo is already a Fork of the original demo code. 
+
+* Java JDK 1.7x
+* Grails 2.4.5
+* Tomcat 8. (28 and 30)
+* git clone -b m3-greach https://github.com/kmacpher67/gr8contact.git m3-greach
+
 ## History
 The application is a simple Contact Management application where you can manage your companies and contacts.
 
