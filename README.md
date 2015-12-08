@@ -1,8 +1,16 @@
-# GR8 Contact
+# Grails-CRM QuickStart
 
-This is a demo application based on the Grails Web Application Framework and the [GR8 CRM plugin suite](http://gr8crm.github.io/).
+This is a fork of a demo application based on the Grails Web Application Framework and the [GR8 CRM plugin suite](http://gr8crm.github.io/).
 It was first presented at GR8Conf Europe 2014 by Göran Ehrsson @goeh.
 
+This implementation will be for a small community collaborative to help small business start using CRM and running their nascent organizations. 
+
+The objective of this endeavor is to document how-to use the Grails-CRM as implemented code-base in a 3rd party non-orginal developer. GR8 CRM is a collection of Grails plugins and there is currently no ready packaged CRM ”product”. The only reference implementations that exists are the different demo applications found on gr8crm.github.io.  This is an attempt to move a working version outside the realm of the orginal team. 
+ 
+It would be great to have OOTB application for others to use. Today GR8 CRM cannot compete with vTiger or Sugar CRM because the lack of resources, both developer resources and project lead. If we can change that and make something great about it, would people very happy.
+The goal is to get a working version for our clients using Grails-CRM and document the process so as to help a community of others benefit from our lessons learned. 
+
+## History
 The application is a simple Contact Management application where you can manage your companies and contacts.
 
 The repository has five branches: master and m1-m4 that represents snapshots in time when developing the application.
